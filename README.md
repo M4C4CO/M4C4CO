@@ -1,0 +1,5 @@
+- Sobre mim
+- 👋 Hi, I’m @João
+- 👀 I’m interested in aprender programação
+- 🌱 I’m currently learning ...a  mexer nos cursos do alura 
+- 📫 How to reach me  joao.calisario.freitas@escola.pr.gov.br
